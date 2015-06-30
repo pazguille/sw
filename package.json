@@ -1,0 +1,18 @@
+{
+  "name": "sw",
+  "version": "0.0.0",
+  "description": "Demo of how to use Service Workers to assets (js, css, fonts, imgs)",
+  "scripts": {
+    "server": "python -m SimpleHTTPServer 3000;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pazguille/sw.git"
+  },
+  "author": "Guille Paz <guille87paz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pazguille/sw/issues"
+  },
+  "homepage": "https://github.com/pazguille/sw"
+}
